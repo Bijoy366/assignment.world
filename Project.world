@@ -1,0 +1,222 @@
+<input type="checkbox" name="mobile-nav-toggle" id="mobileNavToggle" class="mobile-nav-toggle-box hidden" data-controller="MobileNavController" />
+
+<div class="mobile-bar-wrapper">
+  <div class="mobile-bar-flex-child"></div>
+  <div class="mobile-branding-wrapper">
+    
+      
+        <div class="mobile-logo-image"><a href="/"><img src="//static1.squarespace.com/static/5c98fa27b7c92c22f169f9c4/t/5ccaf11fe2c483baf0468c2b/1601674562506/?format=1500w" alt="LEARNEST" /></a></div>
+      
+      <div class="mobile-site-tagline">Changing Work  •  Changing Lives</div>
+    
+  </div>
+  <label for="mobileNavToggle" class="mobile-nav-toggle-label" onclick>
+    <svg class="Icon Icon--hamburger" viewBox="0 0 24 18">
+      <use xlink:href="/assets/ui-icons.svg#hamburger-icon--even" class="use--even"></use>
+      <use xlink:href="/assets/ui-icons.svg#hamburger-icon--odd" class="use--odd"></use>
+    </svg>
+    <svg class="Icon Icon--close" viewBox="0 0 20 20">
+      <use xlink:href="/assets/ui-icons.svg#close-icon"></use>
+    </svg>
+  </label>
+</div>
+
+<div class="overlay-nav-container" id="overlayNav">
+  <div class="overlay-nav-wrapper">
+    <div class="mobile-primary-nav-wrapper">
+  <nav class="mobile-primary-nav-links">
+    
+
+          
+          <div class="collection active homepage folder-link">
+            <a href="/" class="nav-item-page">
+              HOME
+            </a>
+          </div>
+    
+        
+        <div class="folder">
+          <input type="checkbox" name="mobile-folder-toggle-5c9a3e2db208fcc6126524ce" id="mobile-folder-toggle-5c9a3e2db208fcc6126524ce" class="folder-toggle-box hidden" />
+          <label for="mobile-folder-toggle-5c9a3e2db208fcc6126524ce" class="folder-toggle-label" onclick data-href="/who-we-are">WHO WE ARE<svg class="Icon Icon--caretSmall--right" viewBox="0 0 9 16"><use xlink:href="/assets/ui-icons.svg#caret-right-small-icon"></use></svg></label>
+          <div class="subnav">
+          
+
+            
+            <div class="collection folder-link">
+              <a href="/about-us" class="nav-item-page">
+                Self paced courses
+              </a>
+            </div>
+            
+            
+          
+
+            
+            <div class="collection folder-link">
+              <a href="/our-mission" class="nav-item-page">
+                Access to 30 unique courses
+              </a>
+            </div>
+            
+            
+          
+
+            
+            <div class="collection folder-link">
+              <a href="/our-values" class="nav-item-page">
+                Mobile app developement
+              </a>
+            </div>
+            
+            
+          
+
+            
+            <div class="collection folder-link">
+              <a href="/our-work" class="nav-item-page">
+                programing language
+              </a>
+            </div>
+  
+            
+            
+          
+          </div>
+        </div>
+ <div class="folder">
+          <input type="checkbox" name="mobile-folder-toggle-5c9a307c15fcc0b0f4c52cc1" id="mobile-folder-toggle-5c9a307c15fcc0b0f4c52cc1" class="folder-toggle-box hidden" />
+          <label for="mobile-folder-toggle-5c9a307c15fcc0b0f4c52cc1" class="folder-toggle-label" onclick data-href="/what-we-do">what we do<svg class="Icon Icon--caretSmall--right" viewBox="0 0 9 16"><use xlink:href="/assets/ui-icons.svg#caret-right-small-icon"></use></svg></label>
+          <div class="subnav">
+          
+
+            
+            <div class="collection folder-link">
+              <a href="/for-organisations" class="nav-item-page">
+                For Organisations
+              </a>
+            </div>
+            
+            
+          
+
+            
+            <div class="collection folder-link">
+              <a href="/for-individuals" class="nav-item-page">
+                For Individuals
+              </a>
+            </div>
+            
+            
+          
+          </div>
+        </div>
+        
+      
+      
+
+    
+      
+
+        
+
+        
+
+          
+          <div class="collection folder-link">
+            <a href="/diary" class="nav-item-events">
+              DIARY
+            </a>
+          </div>
+          
+
+        
+      
+      
+
+    
+      
+
+        
+
+        
+
+          
+          <div class="collection folder-link">
+            <a href="/learnestblog" class="nav-item-blog">
+              BLOG
+            </a>
+          </div>
+          
+
+        
+      
+      
+
+    
+      
+
+        
+
+        
+
+          
+          <div class="collection folder-link">
+            <a href="/contact" class="nav-item-page">
+              CONTACT
+            </a>
+          </div>
+          
+
+        
+      
+      
+
+    
+  </nav>
+</div>
+
+
+
+    
+
+
+    
+
+    
+  </div>
+</div>
+
+
+
+    <div id="site" class="site-container">
+
+      
+      
+<header id="header" class="site-header" role="banner" data-nc-base="header" data-nc-group="header" data-controller="AncillaryLayout">
+  <div data-nc-container="left">
+    <div class="logo-wrapper" data-content-field="site-title" data-nc-element="branding">
+    
+      
+        <div class="logo-image"><a href="/"><img src="//static1.squarespace.com/static/5c98fa27b7c92c22f169f9c4/t/5ccaf11fe2c483baf0468c2b/1601674562506/?format=1500w" alt="LEARNEST" /></a></div>
+      
+    
+    </div>
+
+    <div class="site-tagline-wrapper" data-nc-element="tagline">
+      <div class="site-tagline">Changing Work  •  Changing Lives</div>
+    </div>
+
+    <div id="mainNavWrapper" class="nav-wrapper primary-nav-wrapper" data-nc-element="primary-nav">
+      
+<nav class="site-navigation" role="navigation" data-content-field="navigation">
+  
+
+    
+      
+
+      
+
+        
+        
+      
+      
